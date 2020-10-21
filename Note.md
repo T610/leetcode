@@ -46,8 +46,10 @@
 双指针还不是很熟   没写对  
 
 [990. 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/?_blank )  
-<a href="https://leetcode-cn.com/problems/satisfiability-of-equality-equations/" target="_blank">  990. 等式方程的可满足性  </a>
-[  ](  )
+<a href="https://leetcode-cn.com/problems/satisfiability-of-equality-equations/" target="_blank">  990. 等式方程的可满足性  </a>  
+
+[684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/)  
+
 [  ](  )
 [  ](  )
 [  ](  )
