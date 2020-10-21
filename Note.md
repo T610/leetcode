@@ -49,6 +49,7 @@
 <a href="https://leetcode-cn.com/problems/satisfiability-of-equality-equations/" target="_blank">  990. 等式方程的可满足性  </a>  
 
 [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/)  
+就是在加边连通的时候，我们需要判断一下  如果已经连通了 说明找到了冗余的边
 
 [  ](  )
 [  ](  )
