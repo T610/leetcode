@@ -45,8 +45,8 @@
 [925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/)   
 双指针还不是很熟   没写对  
 
-[990. 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/ )  
-
+[990. 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/?_blank )  
+<a href="https://leetcode-cn.com/problems/satisfiability-of-equality-equations/" target="_blank">  990. 等式方程的可满足性  </a>
 [  ](  )
 [  ](  )
 [  ](  )
