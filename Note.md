@@ -1,4 +1,4 @@
-# leetcode-
+# leetcode
 
 [  ](  )
 ## 10月11日	 周赛
