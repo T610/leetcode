@@ -51,6 +51,18 @@
 [684. 冗余连接](https://leetcode-cn.com/problems/redundant-connection/)  
 就是在加边连通的时候，我们需要判断一下  如果已经连通了 说明找到了冗余的边
 
-[  ](  )
-[  ](  )
-[  ](  )
+[685. 冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/)  
+
+[1576. 替换所有的问号](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/)  
+第一次做出来了  
+
+[459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)  
+有点像循环旋转一个字符串的感觉  然后找不同      有个字符串找子字符串匹配的问题   KMP
+
+
+
+
+
+
+
+
