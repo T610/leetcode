@@ -57,7 +57,7 @@
 第一次做出来了  
 
 [459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)  
-有点像循环旋转一个字符串的感觉  然后找不同      有个字符串找子字符串匹配的问题   KMP
+有点像循环旋转一个字符串的感觉，然后找不同。有个字符串找子字符串匹配的算法：KMP
 
 
 
