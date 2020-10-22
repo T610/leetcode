@@ -73,7 +73,9 @@
 一维的动态规划  
 
 [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)  
-借助了快速排序的思想
+借助了快速排序的思想  
+
+[448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)
 
 
 
