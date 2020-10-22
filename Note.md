@@ -60,11 +60,14 @@
 有点像循环旋转一个字符串的感觉，然后找不同。有个字符串找子字符串匹配的算法：KMP  
 
 [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)  
-01背包问题  
+01背包问题   两个状态的dp
 
 ## 10月22日
 [763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/)  
-贪心算法  学习题解的写法
+贪心算法  学习题解的写法  
+
+[474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)  
+动态规划  相当于是3个状态的dp了
 
 
 
