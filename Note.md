@@ -62,6 +62,9 @@
 [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)  
 01背包问题  
 
+## 10月22日
+[763. 划分字母区间](https://leetcode-cn.com/problems/partition-labels/)  
+贪心算法  学习题解的写法
 
 
 
