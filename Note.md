@@ -67,7 +67,13 @@
 贪心算法  学习题解的写法  
 
 [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)  
-动态规划  相当于是3个状态的dp了
+动态规划  相当于是3个状态的dp了  
+
+[70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
+一维的动态规划  
+
+
+
 
 
 
