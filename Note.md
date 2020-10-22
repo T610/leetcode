@@ -72,6 +72,8 @@
 [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)  
 一维的动态规划  
 
+[283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)  
+借助了快速排序的思想
 
 
 
