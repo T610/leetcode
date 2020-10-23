@@ -76,11 +76,16 @@
 借助了快速排序的思想  
 
 [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)  
+相当于利用确实的数字 来做小动作。第一次做小动作，第二次来找出这些小动作。
 
 ## 10月23日
 
 [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)  
 快慢节点找中间节点的程序还不是很熟  
+
+[887. 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)  
+经典的动态规划问题  
+
 
 
 
