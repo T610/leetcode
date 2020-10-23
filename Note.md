@@ -75,7 +75,16 @@
 [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/)  
 借助了快速排序的思想  
 
-[448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)
+[448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)  
+
+## 10月23日
+
+[234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)  
+快慢节点找中间节点的程序还不是很熟  
+
+
+
+
 
 
 
