@@ -86,7 +86,9 @@
 [887. 鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/)  
 经典的动态规划问题  
 
-
+[461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)  
+可以使用异或操作   这样简单  然后再统计1的个数  
+注意官方题解的方法三有一个记位的方法
 
 
 
