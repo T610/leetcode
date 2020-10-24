@@ -93,7 +93,11 @@ n & (n - 1) 即 n &= (n - 1) 实质是抹掉二进制最右边的 1 。
 
 ## 10月24日  
 [1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/)  
-贪心算法，类似于排课表那个.还有动态规划的做法
+贪心算法，类似于排课表那个.还有动态规划的做法  
+
+[55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  
+贪心算法
+
 
 
 
