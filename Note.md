@@ -96,7 +96,14 @@ n & (n - 1) 即 n &= (n - 1) 实质是抹掉二进制最右边的 1 。
 贪心算法，类似于排课表那个.还有动态规划的做法  
 
 [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)  
+贪心算法  
+
+[392. 判断子序列](https://leetcode-cn.com/problems/is-subsequence/)  
+简单的双指针  
+
+[45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)  
 贪心算法
+
 
 
 
