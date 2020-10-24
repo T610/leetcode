@@ -89,7 +89,11 @@
 [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)  
 可以使用异或操作   这样简单  然后再统计1的个数  
 注意官方题解的方法三有一个记位的方法  
-n & (n - 1) 即 n &= (n - 1) 实质是抹掉二进制最右边的 1 。
+n & (n - 1) 即 n &= (n - 1) 实质是抹掉二进制最右边的 1 。  
+
+## 10月24日  
+[1024. 视频拼接](https://leetcode-cn.com/problems/video-stitching/)  
+贪心算法，类似于排课表那个.还有动态规划的做法
 
 
 
