@@ -102,7 +102,28 @@ n & (n - 1) 即 n &= (n - 1) 实质是抹掉二进制最右边的 1 。
 简单的双指针  
 
 [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)  
-贪心算法
+贪心算法  
+
+## 10月25日  
+
+[845. 数组中的最长山脉](https://leetcode-cn.com/problems/longest-mountain-in-array/)  
+自己想的太复杂了，有点像统计最大深度的感觉  
+
+[5546. 按键持续时间最长的键](https://leetcode-cn.com/problems/slowest-key/)  
+第一次做出来了，一次遍历  
+
+[5547. 等差子数组](https://leetcode-cn.com/problems/arithmetic-subarrays/)  
+
+[5548. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)  
+实际可以转化成图，寻找最短路径。着重看下。 
+
+[743. 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)  
+dijkstra的普通版本和利用堆的版本  
+
+
+
+
+
 
 
 
