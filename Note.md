@@ -120,6 +120,12 @@ n & (n - 1) 即 n &= (n - 1) 实质是抹掉二进制最右边的 1 。
 [743. 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)  
 dijkstra的普通版本和利用堆的版本  
 
+## 10月26日  
+
+[1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  
+学习计数排序的原理
+
+
 
 
 
