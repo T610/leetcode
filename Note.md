@@ -123,10 +123,15 @@ dijkstra的普通版本和利用堆的版本
 ## 10月26日  
 
 [1365. 有多少小于当前数字的数字](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)  
-学习计数排序的原理
+学习计数排序的原理  
 
+[455. 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)  
+简单的贪心算法
 
+[860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)
 
+[134. 加油站](https://leetcode-cn.com/problems/gas-station/)  
+python的braak是跳出最小的循环，不是直接跳出所有的循环,[这个题解的想法很好](https://leetcode-cn.com/problems/gas-station/solution/shi-yong-tu-de-si-xiang-fen-xi-gai-wen-ti-by-cyayc/)
 
 
 
