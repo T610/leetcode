@@ -131,8 +131,10 @@ dijkstra的普通版本和利用堆的版本
 [860. 柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/)
 
 [134. 加油站](https://leetcode-cn.com/problems/gas-station/)  
-python的braak是跳出最小的循环，不是直接跳出所有的循环,[这个题解的想法很好](https://leetcode-cn.com/problems/gas-station/solution/shi-yong-tu-de-si-xiang-fen-xi-gai-wen-ti-by-cyayc/)
+python的braak是跳出最小的循环，不是直接跳出所有的循环,[这个题解的想法很好](https://leetcode-cn.com/problems/gas-station/solution/shi-yong-tu-de-si-xiang-fen-xi-gai-wen-ti-by-cyayc/)  官方题解的时间复杂度可以降到O(N)
 
+[316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)  
+用了栈。学习官方题解思想
 
 
 
