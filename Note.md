@@ -134,8 +134,22 @@ dijkstra的普通版本和利用堆的版本
 python的braak是跳出最小的循环，不是直接跳出所有的循环,[这个题解的想法很好](https://leetcode-cn.com/problems/gas-station/solution/shi-yong-tu-de-si-xiang-fen-xi-gai-wen-ti-by-cyayc/)  官方题解的时间复杂度可以降到O(N)
 
 [316. 去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/)  
-用了栈。学习官方题解思想
+用了栈。学习官方题解思想  
 
+## 10月27日
+[144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)  
+递归写出来了，迭代没写出来  
+
+[452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)  
+跟排课表很类似，本题有两个排序的解法，学习二维数组怎么按照不同列排序的写法  
+[这题解不错](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/chuan-shang-yi-fu-wo-jiu-bu-ren-shi-ni-liao-lai-3/)
+ 464  646  605  665
+
+[435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)  
+像这种贪心的题，一般都是以end排序，理解起来不容易出错些
+
+[665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)  
+没做出来
 
 
 
