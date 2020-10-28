@@ -151,6 +151,9 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 [665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)  
 没做出来
 
+## 10月28日  
+[1207. 独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/)  
+简单的利用哈希法统计频率就可以了，[这题解详细讲了哈希法](https://leetcode-cn.com/problems/unique-number-of-occurrences/solution/1207-du-yi-wu-er-de-chu-xian-ci-shu-shu-zu-zai-ha-/)
 
 
 
