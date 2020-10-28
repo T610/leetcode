@@ -143,7 +143,6 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 [452. 用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)  
 跟排课表很类似，本题有两个排序的解法，学习二维数组怎么按照不同列排序的写法  
 [这题解不错](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/chuan-shang-yi-fu-wo-jiu-bu-ren-shi-ni-liao-lai-3/)
- 464  646  605  665
 
 [435. 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/)  
 像这种贪心的题，一般都是以end排序，理解起来不容易出错些
@@ -155,7 +154,14 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 [1207. 独一无二的出现次数](https://leetcode-cn.com/problems/unique-number-of-occurrences/)  
 简单的利用哈希法统计频率就可以了，[这题解详细讲了哈希法](https://leetcode-cn.com/problems/unique-number-of-occurrences/solution/1207-du-yi-wu-er-de-chu-xian-ci-shu-shu-zu-zai-ha-/)
 
+[646. 最长数对链](https://leetcode-cn.com/problems/maximum-length-of-pair-chain/)  
+贪心题应该都是按照end排序吧，pairs.sort(key = lambda x:x[1])  
 
+[605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/)  
+判断连续的3个0，可以在首尾各添加0，这样形式上就变得统一了
+
+673  354    464
+  
 
 
 
