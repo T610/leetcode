@@ -160,7 +160,20 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 [605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/)  
 判断连续的3个0，可以在首尾各添加0，这样形式上就变得统一了
 
-673  354    464
+[24. 两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)  
+第二次做没做出来，有迭代和递归的做法.类似25题。  
+
+[26. 删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)  
+第二次做出来了，双指针  
+
+[27. 移除元素](https://leetcode-cn.com/problems/remove-element/)  
+官方题解中的方法二，针对重复数量小的时候，效率更快，有点像快排的思想  
+
+[35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  
+假设题意是叫你在排序数组中寻找是否存在一个目标值。 跟[605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/)很像。[二分查找的题解汇总](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)  
+在一个排好序的数组中，查找一个数字，应该第一时间想到二分查找。二分查找模板没有记住
+
+673  354    464   34
   
 
 
