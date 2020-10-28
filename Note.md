@@ -171,7 +171,9 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 
 [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)  
 假设题意是叫你在排序数组中寻找是否存在一个目标值。 跟[605. 种花问题](https://leetcode-cn.com/problems/can-place-flowers/)很像。[二分查找的题解汇总](https://leetcode-cn.com/problems/search-insert-position/solution/te-bie-hao-yong-de-er-fen-cha-fa-fa-mo-ban-python-/)  
-在一个排好序的数组中，查找一个数字，应该第一时间想到二分查找。二分查找模板没有记住
+在一个排好序的数组中，查找一个数字，应该第一时间想到二分查找。二分查找模板没有记住  
+
+[二分查找拉布拉多]（https://github.com/labuladong/fucking-algorithm/blob/master/%E7%AE%97%E6%B3%95%E6%80%9D%E7%BB%B4%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%88%86%E6%9F%A5%E6%89%BE%E8%AF%A6%E8%A7%A3.md）
 
 673  354    464   34
   
