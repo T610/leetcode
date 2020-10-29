@@ -180,6 +180,9 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 
 [34. 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
+## 10月29日  
+[129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)  
+没做出来，递归理解不到位,其实自己写完代码代下值就能明白很多
 673  354    464   34
   
 
