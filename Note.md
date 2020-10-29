@@ -182,9 +182,12 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 
 ## 10月29日  
 [129. 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)  
-没做出来，递归理解不到位,其实自己写完代码代下值就能明白很多
-673  354    464   34
-  
+没做出来，递归理解不到位,其实自己写完代码代下值就能明白很多,还有层序遍历的做法  
+
+673  354    464   34  
+[1095. 山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/)  
+黄冰衡面试滴滴实习的题，
+https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
 
 
 
