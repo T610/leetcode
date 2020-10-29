@@ -186,8 +186,19 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 
 673  354    464   34  
 [1095. 山脉数组中查找目标值](https://leetcode-cn.com/problems/find-in-mountain-array/)  
-黄冰衡面试滴滴实习的题，
-https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
+
+[黄冰衡面试滴滴实习的题](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)  
+
+[75. 颜色分类](https://leetcode-cn.com/problems/sort-colors/)  
+还是没做出出来  双指针  
+
+[33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  
+
+[66 加一](https://leetcode-cn.com/problems/plus-one/)
+
+  
+
+
 
 
 
