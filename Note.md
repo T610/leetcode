@@ -208,7 +208,13 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 滑动窗口经典的题,  
 
 [209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)  
-是指连续的数组，不是指连续的数组值
+是指连续的数组，不是指连续的数组值  
+
+[76. 最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)  
+
+[总结滑动窗口题解](https://leetcode-cn.com/problems/minimum-window-substring/solution/hua-dong-chuang-kou-by-powcai-2/)  
+
+
 
   
 
