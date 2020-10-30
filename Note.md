@@ -194,7 +194,21 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 
 [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)  
 
-[66 加一](https://leetcode-cn.com/problems/plus-one/)
+[66 加一](https://leetcode-cn.com/problems/plus-one/)  
+
+## 10月30日  
+
+[463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/)  
+判断边界条件那里自己没弄好  
+
+[滑动窗口问题](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/solution/hua-dong-chuang-kou-tong-yong-si-xiang-jie-jue-zi-/)  
+
+[剑指 Offer 59 - I. 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/)  
+[239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
+滑动窗口经典的题,  
+
+[209. 长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)  
+是指连续的数组，不是指连续的数组值
 
   
 
