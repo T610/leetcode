@@ -229,7 +229,21 @@ defaultdic接受一个工厂函数作为参数，dict = defaultdict(factory_func
 双指针运用的不熟  
 
 [560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  
-自己陷入动态窗口的思维陷阱里去了，做题思路跟两数之和很像，只不过这道题加入了频率这个指标。
+自己陷入动态窗口的思维陷阱里去了，做题思路跟两数之和很像，只不过这道题加入了频率这个指标。  
+
+[136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/)  
+差点记不起是怎么做的了  
+
+[459. 重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/)  
+做法的匹配正确性有点忘了  
+
+[575. 分糖果](https://leetcode-cn.com/problems/distribute-candies/)  
+忘记怎么做了  
+
+[925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/)  
+
+
+
 
 
 
