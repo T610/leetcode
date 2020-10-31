@@ -226,7 +226,10 @@ defaultdic接受一个工厂函数作为参数，dict = defaultdict(factory_func
 [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)  
 
 [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  
-双指针运用的不熟
+双指针运用的不熟  
+
+[560. 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/)  
+自己陷入动态窗口的思维陷阱里去了，做题思路跟两数之和很像，只不过这道题加入了频率这个指标。
 
 
 
