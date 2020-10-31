@@ -214,6 +214,11 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 
 [总结滑动窗口题解](https://leetcode-cn.com/problems/minimum-window-substring/solution/hua-dong-chuang-kou-by-powcai-2/)  
 
+## 10月31日  
+[381. O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)  
+没有认真看，，，只是提交了个题解
+
+
 
 
   
