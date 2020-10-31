@@ -218,7 +218,13 @@ python的braak是跳出最小的循环，不是直接跳出所有的循环,[这�
 [381. O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/)  
 没有认真看，，，只是提交了个题解，字典的value也可以是一个字典，不一定就是一个数字。  
 [讲python defaultdict](https://blog.csdn.net/HW_870754395/article/details/86064937?utm_medium=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-BlogCommendFromMachineLearnPai2-1.channel_param)  
-defaultdic接受一个工厂函数作为参数，dict = defaultdict(factory_function)，<factory_function可以是list、set、str等>，当key不存在的时候，返回的是工厂函数的默认值（list的默认值[]  set默认值 set()  str默认值字符串  int默认值0）
+defaultdic接受一个工厂函数作为参数，dict = defaultdict(factory_function)，<factory_function可以是list、set、str等>，当key不存在的时候，返回的是工厂函数的默认值（list的默认值[]  set默认值 set()  str默认值字符串  int默认值0）  
+
+[3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)  
+这道题和76最小覆盖子串刚好相反，要求一个最短的  
+
+[567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)  
+
 
 
 
