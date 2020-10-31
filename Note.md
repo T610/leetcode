@@ -225,6 +225,9 @@ defaultdic接受一个工厂函数作为参数，dict = defaultdict(factory_func
 
 [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)  
 
+[88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)  
+双指针运用的不熟
+
 
 
 
