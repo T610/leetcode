@@ -240,7 +240,16 @@ defaultdic接受一个工厂函数作为参数，dict = defaultdict(factory_func
 [575. 分糖果](https://leetcode-cn.com/problems/distribute-candies/)  
 忘记怎么做了  
 
-[925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/)  
+[925. 长按键入](https://leetcode-cn.com/problems/long-pressed-name/)   
+这道题自己错了太多次了，好好看下  
+
+## 11月1日
+[140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)  
+自己只是把答案复制粘贴了一下  
+
+[5539. 按照频率将数组升序排序](https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/)  
+自己对python的sorted()函数中的匿名函数用法不是很熟，[可以看下这个链接](https://www.runoob.com/python3/python3-func-sorted.html)，sorted(),可以对可迭代对象进行排序，key可以自定义排序规则
+
 
 
 
