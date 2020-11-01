@@ -248,7 +248,10 @@ defaultdic接受一个工厂函数作为参数，dict = defaultdict(factory_func
 自己只是把答案复制粘贴了一下  
 
 [5539. 按照频率将数组升序排序](https://leetcode-cn.com/problems/sort-array-by-increasing-frequency/)  
-自己对python的sorted()函数中的匿名函数用法不是很熟，[可以看下这个链接](https://www.runoob.com/python3/python3-func-sorted.html)，sorted(),可以对可迭代对象进行排序，key可以自定义排序规则
+自己对python的sorted()函数中的匿名函数用法不是很熟，[可以看下这个链接](https://www.runoob.com/python3/python3-func-sorted.html)，sorted(),可以对可迭代对象进行排序，key可以自定义排序规则  
+[977. 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)  
+类似于归并排序的方法自己有点忘了，O(N)的双指针从中间或者从两边都可以实现。没有完全O(1)的做法
+[各种排序的规则总结](https://leetcode-cn.com/problems/squares-of-a-sorted-array/solution/ge-chong-pai-xu-shuang-zhi-zhen-by-toxic-3/)
 
 
 
